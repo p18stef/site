@@ -1,0 +1,6 @@
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/Millennials-2/_gallery
+[submodule "images"]
+	path = images
+	url = https://github.com/Millennials-2/images
