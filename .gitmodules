@@ -1,9 +1,9 @@
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/Millennials-2/_gallery
+	url = https://github.com/p18stef/_gallery
 [submodule "images"]
 	path = images
-	url = https://github.com/Millennials-2/images
+	url = https://github.com/p18stef/images
 [submodule "_quotes"]
 	path = _quotes
 	url = https://github.com/Millennials-2/_quotes
