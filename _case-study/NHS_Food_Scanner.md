@@ -13,4 +13,6 @@ categories:
 tags:
   - Έξυπνες διεπαφές χρήστη
   - Εργαελία και τεχνικές
+  
+{% include NHS_Food_Scanner.md %}
 ---
