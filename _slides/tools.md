@@ -25,5 +25,7 @@ slides:
   - reactable-fountain
   - yazio
   - my-fitness-pal
+  - r
+  - python
 ---
 
